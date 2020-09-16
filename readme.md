@@ -40,3 +40,7 @@ This design is simple yet has some challenging logic, making in interesting but 
 - use of global shared state across multiple UI elements
 - care of details in copying a design
 - small animations
+
+## Time requirements
+
+This assessment is meant to test how a candidate works in a work-like day-to-day situation, a tight deadline (days) is highly discouraged.
