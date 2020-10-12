@@ -24,7 +24,7 @@ A: Yes
 ### Bonus point (optional)
 
 - Use TypeScript
-- end-to-end test using [Cyress](https://www.cypress.io/) or equivalent tool
+- end-to-end test using [Cypress](https://www.cypress.io/) or equivalent tool
 
 ## Why this test
 
